@@ -1,5 +1,5 @@
 # Vue Mo.js
-
+A Vue JS wrapper for the awesome Mo.js
 
 ## Limitations
 This wrapper currently only supports the burst mo.js component. I may look to add more in the future. It makes it simple to add mojs burst animations to a clickable element in your Vue.js application by adding the vue directive `v-mojs`
@@ -48,7 +48,7 @@ data : function(){
 
 Now when you click on the html anchor tag it will display the mojs burst. 
 
-*Please note that there is no need to add the `parent` mojs option to the data option as the wrapper will pick this up automatically.
+_Please note that there is no need to add the `parent` mojs option to the data option as the wrapper will pick this up automatically._
 
 A full list of Mo.js Burst options can be found [here](https://github.com/legomushroom/mojs/blob/master/api/burst.md)
 
