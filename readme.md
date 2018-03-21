@@ -12,7 +12,8 @@ Then add the following to your main vue file
 
 ```javascript
 import VueMoJS from 'vue-mo-js'
-Vue.use(VueMoJS)```
+Vue.use(VueMoJS)
+```
 
 ## Usage
 
