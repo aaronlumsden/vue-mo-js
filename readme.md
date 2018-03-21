@@ -43,7 +43,8 @@ data : function(){
             }
           }
         }
-      }```
+      }
+```
 
 Now when you click on the html anchor tag it will display the mojs burst. 
 
