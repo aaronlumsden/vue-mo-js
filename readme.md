@@ -23,7 +23,7 @@ Add this to any element that you want the burst to appear on once it has been cl
 <a href="/" v-mojs="mojsOptions">Burst Element<a>
 ```
 
-Then in your Vue template data options add the mo-js options.
+Then in your Vue template data option add the mo-js options.
 
 ```javascript
 data : function(){
