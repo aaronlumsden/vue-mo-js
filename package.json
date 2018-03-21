@@ -1,0 +1,19 @@
+{
+  "name": "vue-mo-js",
+  "version": "1.0.0",
+  "description": "A Mo.js wrapper for Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue.js",
+    "mo.js",
+    "animation"
+  ],
+  "author": "Aaron Lumsden",
+  "license": "ISC",
+  "dependencies": {
+    "mo-js": "^0.288.2"
+  }
+}
