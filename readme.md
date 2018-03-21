@@ -20,7 +20,8 @@ Vue.use(VueMoJS)
 Add this to any element that you want the burst to appear on once it has been clicked.
 
 ```html
-<a href="/" v-mojs="mojsOptions">Burst Element<a>```
+<a href="/" v-mojs="mojsOptions">Burst Element<a>
+```
 
 Then in your Vue template data options add the mo-js options.
 
